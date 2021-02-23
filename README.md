@@ -8,4 +8,6 @@ Johnson N, Glick BS.
 J Vis Exp. 2019 Apr 28;(146):10.3791/58618. doi: 10.3791/58618.
 PMID: 31081807 
 
+To use these plugins, simply place the .class files in a folder inside the "plugins" folder in your ImageJ director.
+
 I have also provided a PDF file explaining how to use the plugins for an image analysis project.
