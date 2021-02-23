@@ -10,4 +10,4 @@ PMID: 31081807
 
 To use these plugins, simply place the .class files in a folder inside the "plugins" folder in your ImageJ director.
 
-I have also provided a PDF file explaining how to use the plugins for an image analysis project.
+I have also provided a PDF file called "Editing and Processing 4D Movies". It explains how to use the plugins for an image analysis project.
